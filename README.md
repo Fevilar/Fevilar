@@ -1,5 +1,5 @@
 # Oi, eu sou Felipe Vilar!
-## - Área de Desenvolvimento de Softwares Java | SQL | VBA.
+## - Área de Desenvolvimento de Softwares Java | Python | SQL | VBA.
 
 <div align="center">
   <a href="https://github.com/Fevilar">
