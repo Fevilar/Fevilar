@@ -11,6 +11,7 @@
 <h3> Linguagens </h3>
 <div>
    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ - <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  - <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  - <img align="center" alt="SQL" height="30" width="110" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
@@ -19,7 +20,7 @@
 <h3> IDE </h3>  
 <div>
  <img align="center" alt="Eclipse" height="30" width="100" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
- 
+ <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
  <h3> OFFICE </h3>  
